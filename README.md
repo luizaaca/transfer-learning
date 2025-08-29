@@ -53,4 +53,4 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For questions or collaboration, please contact [Luiza Aca](https://github.com/luizaaca).
+For questions or collaboration, please contact [Luiza Assis](https://github.com/luizaaca).
