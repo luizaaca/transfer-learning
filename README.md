@@ -4,9 +4,7 @@ This repository contains code and resources related to transfer learning techniq
 
 ## Features
 
-- Implementation of transfer learning algorithms using popular libraries.
-- Example notebooks and scripts for applying transfer learning to common datasets.
-- Modular code for experimentation and extension.
+- Example Jupyter notebook (`transfer_learning.ipynb`) demonstrating transfer learning.
 
 ## Installation
 
@@ -17,29 +15,32 @@ git clone https://github.com/luizaaca/transfer-learning.git
 cd transfer-learning
 ```
 
-Install the required dependencies:
+## Running the Notebook
+
+To run the `transfer_learning.ipynb` notebook, you need to have Jupyter Notebook installed.
+
+Install Jupyter using pip:
 
 ```bash
-pip install -r requirements.txt
+pip install notebook
 ```
 
-## Usage
+Start Jupyter Notebook in the repository directory:
 
-1. Choose an example notebook or script from the `examples/` directory.
-2. Run the notebook or script to see transfer learning in action.
-3. Customize the code and experiment with your own datasets.
+```bash
+jupyter notebook
+```
 
-## Directory Structure
+A browser window will open. Click on `transfer_learning.ipynb` to open and run the notebook.
+To execute a cell, select it and press `Shift + Enter`.
+
+Alternatively, you can upload `transfer_learning.ipynb` to [Google Colab](https://colab.research.google.com/) and run it online.
+
+## Repository Structure
 
 ```
 transfer-learning/
-├── examples/
-│   └── ...
-├── models/
-│   └── ...
-├── data/
-│   └── ...
-├── requirements.txt
+├── transfer_learning.ipynb
 └── README.md
 ```
 
@@ -53,4 +54,4 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For questions or collaboration, please contact [Luiza Assis](https://github.com/luizaaca).
+For questions or collaboration, please contact Luiz Assis ([luizaaca](https://github.com/luizaaca)).
